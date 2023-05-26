@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "D7CRUD/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.0-preview.4.23259.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0-preview.4.23259.3",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.0-preview.4.23259.3"
         },
