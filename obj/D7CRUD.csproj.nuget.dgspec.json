@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\D7CRUD\\D7CRUD\\D7CRUD.csproj": {}
+    "D:\\Projects\\D7CRUD\\D7CRUD\\.NETCrud_Example\\D7CRUD.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\D7CRUD\\D7CRUD\\D7CRUD.csproj": {
+    "D:\\Projects\\D7CRUD\\D7CRUD\\.NETCrud_Example\\D7CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\D7CRUD\\D7CRUD\\D7CRUD.csproj",
+        "projectUniqueName": "D:\\Projects\\D7CRUD\\D7CRUD\\.NETCrud_Example\\D7CRUD.csproj",
         "projectName": "D7CRUD",
-        "projectPath": "D:\\Projects\\D7CRUD\\D7CRUD\\D7CRUD.csproj",
+        "projectPath": "D:\\Projects\\D7CRUD\\D7CRUD\\.NETCrud_Example\\D7CRUD.csproj",
         "packagesPath": "C:\\Users\\rahero\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\D7CRUD\\D7CRUD\\obj\\",
+        "outputPath": "D:\\Projects\\D7CRUD\\D7CRUD\\.NETCrud_Example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahero\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,8 @@
               "version": "[8.0.0-preview.4.23259.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0-preview.4.23259.3, )"
             }

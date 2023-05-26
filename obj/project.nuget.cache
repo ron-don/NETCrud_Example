@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+G5k3E1bUH1M2fiRgHS1et0AE/nw38qAHK5byjyvsCoJUvyA/o3+R64cg+q6c6noed7GrQ1vHyqZSWS2jxuWWA==",
+  "dgSpecHash": "/tawUO5uaDXntqi9iyp4WXCJF26PkuWvYuVoRq+XGrv3g3pcd5J3RXF9cRgd44HdtF+n035OoX9MAXzZaB9SHg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\D7CRUD\\D7CRUD\\D7CRUD.csproj",
+  "projectFilePath": "D:\\Projects\\D7CRUD\\D7CRUD\\.NETCrud_Example\\D7CRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rahero\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\rahero\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
